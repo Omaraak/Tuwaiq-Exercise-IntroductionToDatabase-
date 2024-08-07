@@ -1,1 +1,0 @@
-# Tuwaiq-Exercise-IntroductionToDatabase-
